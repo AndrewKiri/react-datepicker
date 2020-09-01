@@ -30,7 +30,7 @@ export interface Props {
   /** input custom styles */
   inputStyles?: {
     [style: string]: string
-  }
+  };
   /** input clear icon */
   clearIcon?: React.ReactNode;
 }
